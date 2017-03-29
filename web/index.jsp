@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>不好9</title>
+    <title>不好</title>
   </head>
   <body>
 <p>test</p>
