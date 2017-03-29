@@ -3,6 +3,6 @@
  */
 public class FaTest {
     public static void main(String args[]) {
-         System.out.println("FaTest Out Me!");
+         System.out.println("FaTestt提交到fa!");
     }
 }
